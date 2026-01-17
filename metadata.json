@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Keyboard Visualizer",
+  "description": "A precise visual recreation of a keyboard layout using Tailwind CSS, faithfully adapting the original design.",
+  "requestFramePermissions": []
+}
